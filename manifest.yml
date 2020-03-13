@@ -1,0 +1,8 @@
+---
+applications:
+- name: drupal-7-demo
+  memory: 128M
+  instances: 1
+  path: .
+  services:
+  - mysql
