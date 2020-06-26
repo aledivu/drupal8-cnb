@@ -6,3 +6,5 @@ We have created this to trigger an image build on Friday 3rd Jun 2020 at 08:15.
 live demo at 15:52.
 
 demo with duncan
+
+fix 26June 2020
